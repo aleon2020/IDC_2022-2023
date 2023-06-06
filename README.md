@@ -24,6 +24,16 @@ Directorio 'Problemas': Contiene todo acerca de los 2 problemas realizados a lo 
 
 NOTA: A la hora de entregar tanto las prácticas como los problemas, es obligatorio entregar una memoria con todas las explicaciones y el código MATLAB utilizado. Esto se hace rellenando los huecos que hay reservados en los enunciados de cada una de estas entregas (archivos comprimidos problem_X_text_aula_virtual.zip y practica_X_text_aula_virtual.zip) para los que se utiliza LATEX (herramienta LaTeXila).
 
-## 4. Referencias
+## 4. Uso de los programas
+
+Para poder utilizar y visualizar el código fuente, debes descargar el fichero comprimido correspondiente al ejercicio, para ello:
+
+- Desde Github, pincha en el fichero comprimido correspondiente a la solución del ejercicio (exercise_X.zip).
+
+- Después, pincha en la opción 'View raw', esto te descargará el fichero comprimido.
+
+- Por último, desde la carpeta en la que se haya descargado el fichero comprimido, arrastra el mismo a tu gestor de archivos de MATLAB, y después ya podrás utilizar el código fuente del ejercicio.
+
+## 5. Referencias
 
 Ficheros 'Libro de la asignatura (Parte X).pdf': Son los dos libros de apoyo que se utilizan para abordar los contenidos teóricos de la asignatura, aunque en la mayoría de los casos se tiene como material de estudio todo lo visto en las simulaciones de MATLAB.
