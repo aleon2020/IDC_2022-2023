@@ -4,6 +4,8 @@
 
 A continuación se detallan brevemente todos los contenidos que se encuentran en este repositorio, con el objetivo de facilitar la preparación del examen final de la asignatura y de abordar la misma lo mejor posible.
 
+IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
+
 ## 1. Ejercicios propuestos durante el curso
 
 Directorios 'Ejercicios Parte 1' y 'Ejercicios Parte 2': Dentro de cada uno de estos directorios se encuentran todos los ejercicios que se han ido resolviendo en clase, donde los de la parte 1 corresponden a los conceptos que se tratan para poder abordar el examen parcial, mientras que los de la parte 2 corresponden a los conceptos que se tratan para poder abordar el examen final de la asignatura.
