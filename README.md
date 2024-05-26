@@ -8,21 +8,21 @@ IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO 
 
 ## 1. Ejercicios propuestos durante el curso
 
-Directorios 'Ejercicios Parte 1' y 'Ejercicios Parte 2': Dentro de cada uno de estos directorios se encuentran todos los ejercicios que se han ido resolviendo en clase, donde los de la parte 1 corresponden a los conceptos que se tratan para poder abordar el examen parcial, mientras que los de la parte 2 corresponden a los conceptos que se tratan para poder abordar el examen final de la asignatura.
+Directorios ['Ejercicios Parte 1'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%201) y ['Ejercicios Parte 2'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%202): Dentro de cada uno de estos directorios se encuentran todos los ejercicios que se han ido resolviendo en clase, donde los de la parte 1 corresponden a los conceptos que se tratan para poder abordar el examen parcial, mientras que los de la parte 2 corresponden a los conceptos que se tratan para poder abordar el examen final de la asignatura.
 
 NOTA: Puedes ver que algunos ejercicios están contenidos en un directorio y otros no, ya que los que sí están contenidos en un directorio contienen código de MATLAB que se ha utilizado para poder resolver y, a su vez, simular lo pedido en el ejercicio; mientras que los demás son meramente teóricos.
 
 ## 2. Exámenes
 
-Directorios 'Examen Final' y 'Examen Parcial': Cada uno de estos contiene lo preguntado en cada uno de los dos exámenes realizados a lo largo del curso, los cuales incluyen el enunciado del mismo y el código fuente pedido.
+Directorios ['Examen Final'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Examen%20Final) y ['Examen Parcial'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Examen%20Parcial): Cada uno de estos contiene lo preguntado en cada uno de los dos exámenes realizados a lo largo del curso, los cuales incluyen el enunciado del mismo y el código fuente pedido.
 
-Además, los ficheros 'Formulario Parcial X.pdf' corresponden a cada uno de los formularios que se pueden llevar al examen como material de apoyo (extensión máxima de 2 caras).
+Además, los ficheros ['Formulario Parcial 1.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%201.pdf) y ['Formulario Parcial 2.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%202.pdf) corresponden a cada uno de los formularios que se pueden llevar al examen como material de apoyo (extensión máxima de 2 caras).
 
 ## 3. Prácticas y problemas
 
-Directorio 'Prácticas': Contiene todo acerca de las 3 prácticas realizadas a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
+Directorio ['Prácticas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Pr%C3%A1cticas): Contiene todo acerca de las 3 prácticas realizadas a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
 
-Directorio 'Problemas': Contiene todo acerca de los 2 problemas realizados a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
+Directorio ['Problemas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Problemas): Contiene todo acerca de los 2 problemas realizados a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
 
 NOTA: A la hora de entregar tanto las prácticas como los problemas, es obligatorio entregar una memoria con todas las explicaciones y el código MATLAB utilizado. Esto se hace rellenando los huecos que hay reservados en los enunciados de cada una de estas entregas (archivos comprimidos problem_X_text_aula_virtual.zip y practica_X_text_aula_virtual.zip) para los que se utiliza LATEX (herramienta LaTeXila).
 
@@ -38,4 +38,4 @@ Para poder utilizar y visualizar el código fuente, debes descargar el fichero c
 
 ## 5. Referencias
 
-Ficheros 'Libro de la asignatura (Parte X).pdf': Son los dos libros de apoyo que se utilizan para abordar los contenidos teóricos de la asignatura, aunque en la mayoría de los casos se tiene como material de estudio todo lo visto en las simulaciones de MATLAB.
+Ficheros ['Libro de la asignatura (Parte 1).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%201).pdf) y ['Libro de la asignatura (Parte 2).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%202).pdf): Son los dos libros de apoyo que se utilizan para abordar los contenidos teóricos de la asignatura, aunque en la mayoría de los casos se tiene como material de estudio todo lo visto en las simulaciones de MATLAB.
