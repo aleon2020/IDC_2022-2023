@@ -6,6 +6,20 @@ A continuación se detallan brevemente todos los contenidos que se encuentran en
 
 IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
 
+Clona este repositorio ejecutando el siguiente comando:
+
+```sh
+git clone https://<token>@github.com/aleon2020/IDC_2022-2023.git
+```
+
+IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+
+Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+
+```sh
+git pull
+```
+
 ## 1. Ejercicios propuestos durante el curso
 
 Directorios ['Ejercicios Parte 1'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%201) y ['Ejercicios Parte 2'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%202): Dentro de cada uno de estos directorios se encuentran todos los ejercicios que se han ido resolviendo en clase, donde los de la parte 1 corresponden a los conceptos que se tratan para poder abordar el examen parcial, mientras que los de la parte 2 corresponden a los conceptos que se tratan para poder abordar el examen final de la asignatura.
