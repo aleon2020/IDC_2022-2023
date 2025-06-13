@@ -26,9 +26,7 @@ Directorios ['Ejercicios Parte 1'](https://github.com/aleon2020/IDC_2022-2023/tr
 
 NOTA: Puedes ver que algunos ejercicios están contenidos en un directorio y otros no, ya que los que sí están contenidos en un directorio contienen código de MATLAB que se ha utilizado para poder resolver y, a su vez, simular lo pedido en el ejercicio; mientras que los demás son meramente teóricos.
 
-## 2. Exámenes
-
-Directorios ['Examen Final'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Examen%20Final) y ['Examen Parcial'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Examen%20Parcial): Cada uno de estos contiene lo preguntado en cada uno de los dos exámenes realizados a lo largo del curso, los cuales incluyen el enunciado del mismo y el código fuente pedido.
+## 2. Formularios
 
 Además, los ficheros ['Formulario Parcial 1.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%201.pdf) y ['Formulario Parcial 2.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%202.pdf) corresponden a cada uno de los formularios que se pueden llevar al examen como material de apoyo (extensión máxima de 2 caras).
 
