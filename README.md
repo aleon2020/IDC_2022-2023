@@ -1,53 +1,53 @@
 # Ingeniería del Control 2022-2023
 
-¡Bienvenido! En este repositorio se encuentran todos los materiales correspondientes a la asignatura de Ingeniería del Control.
+Welcome! This repository contains all the materials for the subject **Ingeniería del Control**.
 
-A continuación se detallan brevemente todos los contenidos que se encuentran en este repositorio, con el objetivo de facilitar la preparación del examen final de la asignatura y de abordar la misma lo mejor posible.
+Below is a brief description of all the content found in this repository, with the aim of facilitating preparation for the final exam and helping you tackle the subject as best as possible.
 
-IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
+**IMPORTANT**: IF YOU NOTICE ANY MISTAKES OR MISSING IN ANY FILE UPLOADED TO THIS REPOSITORY (OR IF THERE IS ANY DOUBT REGARDING UNDERSTANDING), LEAVE ME AN ISSUE AND I WILL TRY TO RESOLVE THE PROBLEM AS SOON AS POSSIBLE. DON'T FORGET TO LEAVE ME A STAR AND I HOPE THAT ALL THIS MATERIAL IS OF GREAT HELP TO YOU.
 
-Clona este repositorio ejecutando el siguiente comando:
+Clone this repository by running the following command:
 
 ```sh
 git clone https://<token>@github.com/aleon2020/IDC_2022-2023.git
 ```
 
-IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+**IMPORTANT**: Add your token exactly as shown. This is so you don't have to enter the token in the terminal every time you want to update the repository using the 'git pull' command.
 
-Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+If you've already cloned this repository, run the following command before starting to work with it, as new changes or modifications may have been added. This is to ensure you have cloned the most recent version of the repository:
 
 ```sh
 git pull
 ```
 
-## 1. Ejercicios propuestos durante el curso
+## 1. Exercises proposed during the course
 
-Directorios ['Ejercicios Parte 1'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%201) y ['Ejercicios Parte 2'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%202): Dentro de cada uno de estos directorios se encuentran todos los ejercicios que se han ido resolviendo en clase, donde los de la parte 1 corresponden a los conceptos que se tratan para poder abordar el examen parcial, mientras que los de la parte 2 corresponden a los conceptos que se tratan para poder abordar el examen final de la asignatura.
+Directories ['Ejercicios Parte 1'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%201) and ['Ejercicios Parte 2'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Ejercicios%20Parte%202): Within each of these directories are all the exercises that have been completed in class. Those in Part 1 correspond to the concepts covered in the midterm exam, while those in Part 2 correspond to the concepts covered in the final exam for the subject.
 
-NOTA: Puedes ver que algunos ejercicios están contenidos en un directorio y otros no, ya que los que sí están contenidos en un directorio contienen código de MATLAB que se ha utilizado para poder resolver y, a su vez, simular lo pedido en el ejercicio; mientras que los demás son meramente teóricos.
+**NOTE**: You can see that some exercises are contained in a directory and others are not, since those that are contained in a directory contain MATLAB code that was used to solve and, in turn, simulate the exercise; while the others are purely theoretical.
 
-## 2. Formularios
+## 2. Forms
 
-Además, los ficheros ['Formulario Parcial 1.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%201.pdf) y ['Formulario Parcial 2.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%202.pdf) corresponden a cada uno de los formularios que se pueden llevar al examen como material de apoyo (extensión máxima de 2 caras).
+In addition, the files ['Formulario Parcial 1.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%201.pdf) and ['Formulario Parcial 2.pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Formulario%20Parcial%202.pdf) correspond to each of the forms that can be taken to the exam as support material (maximum length of 2 pages).
 
-## 3. Prácticas y problemas
+## 3. Practices and problems
 
-Directorio ['Prácticas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Pr%C3%A1cticas): Contiene todo acerca de las 3 prácticas realizadas a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
+Directory ['Prácticas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Pr%C3%A1cticas): Contains everything about the 3 practices carried out throughout the course (statement, paper solutions, source code, reports, etc.).
 
-Directorio ['Problemas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Problemas): Contiene todo acerca de los 2 problemas realizados a lo largo del curso (enunciado, soluciones a papel, código fuente, memorias, etc).
+Directory ['Problemas'](https://github.com/aleon2020/IDC_2022-2023/tree/main/Problemas): Contains everything about the 2 problems completed throughout the course (statement, paper solutions, source code, reports, etc.).
 
-NOTA: A la hora de entregar tanto las prácticas como los problemas, es obligatorio entregar una memoria con todas las explicaciones y el código MATLAB utilizado. Esto se hace rellenando los huecos que hay reservados en los enunciados de cada una de estas entregas (archivos comprimidos problem_X_text_aula_virtual.zip y practica_X_text_aula_virtual.zip) para los que se utiliza LATEX (herramienta LaTeXila).
+**NOTE**: When submitting both the practical exercises and the problems, it is mandatory to submit a report with all the explanations and the MATLAB code used. This is done by filling in the blanks reserved in the statements of each of these submissions (compressed files problem_X_text_aula_virtual.zip and practica_X_text_aula_virtual.zip) for which LATEX (LaTeXila tool) is used.
 
-## 4. Uso de los programas
+## 4. Using the programs
 
-Para poder utilizar y visualizar el código fuente, debes descargar el fichero comprimido correspondiente al ejercicio, para ello:
+To use and view the source code, you must download the compressed file corresponding to the exercise. To do this:
 
-- Desde Github, pincha en el fichero comprimido correspondiente a la solución del ejercicio (exercise_X.zip).
+- From Github, click on the compressed file corresponding to the exercise solution (exercise_X.zip).
 
-- Después, pincha en la opción 'View raw', esto te descargará el fichero comprimido.
+- Then, click on the 'View raw' option, this will download the compressed file.
 
-- Por último, desde la carpeta en la que se haya descargado el fichero comprimido, arrastra el mismo a tu gestor de archivos de MATLAB, y después ya podrás utilizar el código fuente del ejercicio.
+- Finally, from the folder where the compressed file was downloaded, drag it to your MATLAB file manager, and then you'll be able to use the source code for the exercise.
 
-## 5. Referencias
+## 5. References
 
-Ficheros ['Libro de la asignatura (Parte 1).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%201).pdf) y ['Libro de la asignatura (Parte 2).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%202).pdf): Son los dos libros de apoyo que se utilizan para abordar los contenidos teóricos de la asignatura, aunque en la mayoría de los casos se tiene como material de estudio todo lo visto en las simulaciones de MATLAB.
+Files ['Libro de la asignatura (Parte 1).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%201).pdf) and ['Libro de la asignatura (Parte 2).pdf'](https://github.com/aleon2020/IDC_2022-2023/blob/main/Libro%20de%20la%20asignatura%20(Parte%202).pdf): These are the two support books used to address the theoretical content of the subject, although in most cases the study material used is everything covered in the MATLAB simulations.
